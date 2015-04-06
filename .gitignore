@@ -1,0 +1,8 @@
+*.iml
+target/
+*.log
+
+#Ignore all idea settings, except code styles
+.idea/*
+.DS_store
+!.idea/codeStyleSettings.xml
